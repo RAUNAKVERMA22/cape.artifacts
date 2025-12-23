@@ -1,0 +1,14 @@
+D:\Cg_LPU\RvComputersApp\bin\Debug\net10.0\RrvComputersApp.exe
+D:\Cg_LPU\RvComputersApp\bin\Debug\net10.0\RrvComputersApp.deps.json
+D:\Cg_LPU\RvComputersApp\bin\Debug\net10.0\RrvComputersApp.runtimeconfig.json
+D:\Cg_LPU\RvComputersApp\bin\Debug\net10.0\RrvComputersApp.dll
+D:\Cg_LPU\RvComputersApp\bin\Debug\net10.0\RrvComputersApp.pdb
+D:\Cg_LPU\RvComputersApp\obj\Debug\net10.0\RrvComputersApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\RvComputersApp\obj\Debug\net10.0\RrvComputersApp.AssemblyInfoInputs.cache
+D:\Cg_LPU\RvComputersApp\obj\Debug\net10.0\RrvComputersApp.AssemblyInfo.cs
+D:\Cg_LPU\RvComputersApp\obj\Debug\net10.0\RrvComputersApp.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\RvComputersApp\obj\Debug\net10.0\RrvComputersApp.dll
+D:\Cg_LPU\RvComputersApp\obj\Debug\net10.0\refint\RrvComputersApp.dll
+D:\Cg_LPU\RvComputersApp\obj\Debug\net10.0\RrvComputersApp.pdb
+D:\Cg_LPU\RvComputersApp\obj\Debug\net10.0\RrvComputersApp.genruntimeconfig.cache
+D:\Cg_LPU\RvComputersApp\obj\Debug\net10.0\ref\RrvComputersApp.dll
