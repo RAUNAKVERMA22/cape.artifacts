@@ -1,0 +1,15 @@
+D:\Cg_LPU\Arraydemo\bin\Debug\net10.0\Arraydemo.exe
+D:\Cg_LPU\Arraydemo\bin\Debug\net10.0\Arraydemo.deps.json
+D:\Cg_LPU\Arraydemo\bin\Debug\net10.0\Arraydemo.runtimeconfig.json
+D:\Cg_LPU\Arraydemo\bin\Debug\net10.0\Arraydemo.dll
+D:\Cg_LPU\Arraydemo\bin\Debug\net10.0\Arraydemo.pdb
+D:\Cg_LPU\Arraydemo\obj\Debug\net10.0\Arraydemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\Arraydemo\obj\Debug\net10.0\Arraydemo.AssemblyInfoInputs.cache
+D:\Cg_LPU\Arraydemo\obj\Debug\net10.0\Arraydemo.AssemblyInfo.cs
+D:\Cg_LPU\Arraydemo\obj\Debug\net10.0\Arraydemo.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\Arraydemo\obj\Debug\net10.0\Arraydemo.sourcelink.json
+D:\Cg_LPU\Arraydemo\obj\Debug\net10.0\Arraydemo.dll
+D:\Cg_LPU\Arraydemo\obj\Debug\net10.0\refint\Arraydemo.dll
+D:\Cg_LPU\Arraydemo\obj\Debug\net10.0\Arraydemo.pdb
+D:\Cg_LPU\Arraydemo\obj\Debug\net10.0\Arraydemo.genruntimeconfig.cache
+D:\Cg_LPU\Arraydemo\obj\Debug\net10.0\ref\Arraydemo.dll
