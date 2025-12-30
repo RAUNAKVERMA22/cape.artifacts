@@ -1,0 +1,14 @@
+D:\Cg_LPU\calculators\bin\Debug\net10.0\calculators.exe
+D:\Cg_LPU\calculators\bin\Debug\net10.0\calculators.deps.json
+D:\Cg_LPU\calculators\bin\Debug\net10.0\calculators.runtimeconfig.json
+D:\Cg_LPU\calculators\bin\Debug\net10.0\calculators.dll
+D:\Cg_LPU\calculators\bin\Debug\net10.0\calculators.pdb
+D:\Cg_LPU\calculators\obj\Debug\net10.0\calculators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\calculators\obj\Debug\net10.0\calculators.AssemblyInfoInputs.cache
+D:\Cg_LPU\calculators\obj\Debug\net10.0\calculators.AssemblyInfo.cs
+D:\Cg_LPU\calculators\obj\Debug\net10.0\calculators.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\calculators\obj\Debug\net10.0\calculators.dll
+D:\Cg_LPU\calculators\obj\Debug\net10.0\refint\calculators.dll
+D:\Cg_LPU\calculators\obj\Debug\net10.0\calculators.pdb
+D:\Cg_LPU\calculators\obj\Debug\net10.0\calculators.genruntimeconfig.cache
+D:\Cg_LPU\calculators\obj\Debug\net10.0\ref\calculators.dll
