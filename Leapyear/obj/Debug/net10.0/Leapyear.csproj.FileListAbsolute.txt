@@ -1,0 +1,15 @@
+D:\Cg_LPU\Leapyear\bin\Debug\net10.0\Leapyear.exe
+D:\Cg_LPU\Leapyear\bin\Debug\net10.0\Leapyear.deps.json
+D:\Cg_LPU\Leapyear\bin\Debug\net10.0\Leapyear.runtimeconfig.json
+D:\Cg_LPU\Leapyear\bin\Debug\net10.0\Leapyear.dll
+D:\Cg_LPU\Leapyear\bin\Debug\net10.0\Leapyear.pdb
+D:\Cg_LPU\Leapyear\obj\Debug\net10.0\Leapyear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\Leapyear\obj\Debug\net10.0\Leapyear.AssemblyInfoInputs.cache
+D:\Cg_LPU\Leapyear\obj\Debug\net10.0\Leapyear.AssemblyInfo.cs
+D:\Cg_LPU\Leapyear\obj\Debug\net10.0\Leapyear.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\Leapyear\obj\Debug\net10.0\Leapyear.dll
+D:\Cg_LPU\Leapyear\obj\Debug\net10.0\refint\Leapyear.dll
+D:\Cg_LPU\Leapyear\obj\Debug\net10.0\Leapyear.pdb
+D:\Cg_LPU\Leapyear\obj\Debug\net10.0\Leapyear.genruntimeconfig.cache
+D:\Cg_LPU\Leapyear\obj\Debug\net10.0\ref\Leapyear.dll
+D:\Cg_LPU\Leapyear\obj\Debug\net10.0\Leapyear.sourcelink.json
