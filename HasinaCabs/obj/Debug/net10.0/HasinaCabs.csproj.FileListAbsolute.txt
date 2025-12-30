@@ -1,0 +1,15 @@
+D:\Cg_LPU\HasinaCabs\bin\Debug\net10.0\HasinaCabs.exe
+D:\Cg_LPU\HasinaCabs\bin\Debug\net10.0\HasinaCabs.deps.json
+D:\Cg_LPU\HasinaCabs\bin\Debug\net10.0\HasinaCabs.runtimeconfig.json
+D:\Cg_LPU\HasinaCabs\bin\Debug\net10.0\HasinaCabs.dll
+D:\Cg_LPU\HasinaCabs\bin\Debug\net10.0\HasinaCabs.pdb
+D:\Cg_LPU\HasinaCabs\obj\Debug\net10.0\HasinaCabs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\HasinaCabs\obj\Debug\net10.0\HasinaCabs.AssemblyInfoInputs.cache
+D:\Cg_LPU\HasinaCabs\obj\Debug\net10.0\HasinaCabs.AssemblyInfo.cs
+D:\Cg_LPU\HasinaCabs\obj\Debug\net10.0\HasinaCabs.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\HasinaCabs\obj\Debug\net10.0\HasinaCabs.sourcelink.json
+D:\Cg_LPU\HasinaCabs\obj\Debug\net10.0\HasinaCabs.dll
+D:\Cg_LPU\HasinaCabs\obj\Debug\net10.0\refint\HasinaCabs.dll
+D:\Cg_LPU\HasinaCabs\obj\Debug\net10.0\HasinaCabs.pdb
+D:\Cg_LPU\HasinaCabs\obj\Debug\net10.0\HasinaCabs.genruntimeconfig.cache
+D:\Cg_LPU\HasinaCabs\obj\Debug\net10.0\ref\HasinaCabs.dll
