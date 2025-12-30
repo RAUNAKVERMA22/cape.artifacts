@@ -1,0 +1,15 @@
+D:\Cg_LPU\Heightcategory\bin\Debug\net10.0\Heightcategory.exe
+D:\Cg_LPU\Heightcategory\bin\Debug\net10.0\Heightcategory.deps.json
+D:\Cg_LPU\Heightcategory\bin\Debug\net10.0\Heightcategory.runtimeconfig.json
+D:\Cg_LPU\Heightcategory\bin\Debug\net10.0\Heightcategory.dll
+D:\Cg_LPU\Heightcategory\bin\Debug\net10.0\Heightcategory.pdb
+D:\Cg_LPU\Heightcategory\obj\Debug\net10.0\Heightcategory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\Heightcategory\obj\Debug\net10.0\Heightcategory.AssemblyInfoInputs.cache
+D:\Cg_LPU\Heightcategory\obj\Debug\net10.0\Heightcategory.AssemblyInfo.cs
+D:\Cg_LPU\Heightcategory\obj\Debug\net10.0\Heightcategory.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\Heightcategory\obj\Debug\net10.0\Heightcategory.dll
+D:\Cg_LPU\Heightcategory\obj\Debug\net10.0\refint\Heightcategory.dll
+D:\Cg_LPU\Heightcategory\obj\Debug\net10.0\Heightcategory.pdb
+D:\Cg_LPU\Heightcategory\obj\Debug\net10.0\Heightcategory.genruntimeconfig.cache
+D:\Cg_LPU\Heightcategory\obj\Debug\net10.0\ref\Heightcategory.dll
+D:\Cg_LPU\Heightcategory\obj\Debug\net10.0\Heightcategory.sourcelink.json
