@@ -1,0 +1,15 @@
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\bin\Debug\net10.0\EmployeeApp_Shadowing.exe
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\bin\Debug\net10.0\EmployeeApp_Shadowing.deps.json
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\bin\Debug\net10.0\EmployeeApp_Shadowing.runtimeconfig.json
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\bin\Debug\net10.0\EmployeeApp_Shadowing.dll
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\bin\Debug\net10.0\EmployeeApp_Shadowing.pdb
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\obj\Debug\net10.0\EmployeeApp_Shadowing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\obj\Debug\net10.0\EmployeeApp_Shadowing.AssemblyInfoInputs.cache
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\obj\Debug\net10.0\EmployeeApp_Shadowing.AssemblyInfo.cs
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\obj\Debug\net10.0\EmployeeApp_Shadowing.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\obj\Debug\net10.0\EmployeeApp_Shadowing.sourcelink.json
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\obj\Debug\net10.0\EmployeeApp_Shadowing.dll
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\obj\Debug\net10.0\refint\EmployeeApp_Shadowing.dll
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\obj\Debug\net10.0\EmployeeApp_Shadowing.pdb
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\obj\Debug\net10.0\EmployeeApp_Shadowing.genruntimeconfig.cache
+D:\Cg_LPU\artifacts\EmployeeApp_Shadowing\obj\Debug\net10.0\ref\EmployeeApp_Shadowing.dll
