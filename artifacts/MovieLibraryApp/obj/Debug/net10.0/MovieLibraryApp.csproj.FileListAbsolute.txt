@@ -1,0 +1,15 @@
+D:\Cg_LPU\artifacts\MovieLibraryApp\bin\Debug\net10.0\MovieLibraryApp.exe
+D:\Cg_LPU\artifacts\MovieLibraryApp\bin\Debug\net10.0\MovieLibraryApp.deps.json
+D:\Cg_LPU\artifacts\MovieLibraryApp\bin\Debug\net10.0\MovieLibraryApp.runtimeconfig.json
+D:\Cg_LPU\artifacts\MovieLibraryApp\bin\Debug\net10.0\MovieLibraryApp.dll
+D:\Cg_LPU\artifacts\MovieLibraryApp\bin\Debug\net10.0\MovieLibraryApp.pdb
+D:\Cg_LPU\artifacts\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\artifacts\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.AssemblyInfoInputs.cache
+D:\Cg_LPU\artifacts\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.AssemblyInfo.cs
+D:\Cg_LPU\artifacts\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\artifacts\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.sourcelink.json
+D:\Cg_LPU\artifacts\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.dll
+D:\Cg_LPU\artifacts\MovieLibraryApp\obj\Debug\net10.0\refint\MovieLibraryApp.dll
+D:\Cg_LPU\artifacts\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.pdb
+D:\Cg_LPU\artifacts\MovieLibraryApp\obj\Debug\net10.0\MovieLibraryApp.genruntimeconfig.cache
+D:\Cg_LPU\artifacts\MovieLibraryApp\obj\Debug\net10.0\ref\MovieLibraryApp.dll
