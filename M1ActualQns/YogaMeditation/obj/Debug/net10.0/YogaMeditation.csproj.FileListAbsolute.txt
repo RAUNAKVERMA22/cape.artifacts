@@ -1,0 +1,14 @@
+D:\C_Sharp Doc\M1ActualQns\YogaMeditation\bin\Debug\net10.0\YogaMeditation.exe
+D:\C_Sharp Doc\M1ActualQns\YogaMeditation\bin\Debug\net10.0\YogaMeditation.deps.json
+D:\C_Sharp Doc\M1ActualQns\YogaMeditation\bin\Debug\net10.0\YogaMeditation.runtimeconfig.json
+D:\C_Sharp Doc\M1ActualQns\YogaMeditation\bin\Debug\net10.0\YogaMeditation.dll
+D:\C_Sharp Doc\M1ActualQns\YogaMeditation\bin\Debug\net10.0\YogaMeditation.pdb
+D:\C_Sharp Doc\M1ActualQns\YogaMeditation\obj\Debug\net10.0\YogaMeditation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp Doc\M1ActualQns\YogaMeditation\obj\Debug\net10.0\YogaMeditation.AssemblyInfoInputs.cache
+D:\C_Sharp Doc\M1ActualQns\YogaMeditation\obj\Debug\net10.0\YogaMeditation.AssemblyInfo.cs
+D:\C_Sharp Doc\M1ActualQns\YogaMeditation\obj\Debug\net10.0\YogaMeditation.csproj.CoreCompileInputs.cache
+D:\C_Sharp Doc\M1ActualQns\YogaMeditation\obj\Debug\net10.0\YogaMeditation.dll
+D:\C_Sharp Doc\M1ActualQns\YogaMeditation\obj\Debug\net10.0\refint\YogaMeditation.dll
+D:\C_Sharp Doc\M1ActualQns\YogaMeditation\obj\Debug\net10.0\YogaMeditation.pdb
+D:\C_Sharp Doc\M1ActualQns\YogaMeditation\obj\Debug\net10.0\YogaMeditation.genruntimeconfig.cache
+D:\C_Sharp Doc\M1ActualQns\YogaMeditation\obj\Debug\net10.0\ref\YogaMeditation.dll

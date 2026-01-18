@@ -1,0 +1,14 @@
+D:\C_Sharp Doc\M1ActualQns\Movie_Stock\obj\Debug\net10.0\Movie_Stock.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp Doc\M1ActualQns\Movie_Stock\obj\Debug\net10.0\Movie_Stock.AssemblyInfoInputs.cache
+D:\C_Sharp Doc\M1ActualQns\Movie_Stock\obj\Debug\net10.0\Movie_Stock.AssemblyInfo.cs
+D:\C_Sharp Doc\M1ActualQns\Movie_Stock\obj\Debug\net10.0\Movie_Stock.csproj.CoreCompileInputs.cache
+D:\C_Sharp Doc\M1ActualQns\Movie_Stock\bin\Debug\net10.0\Movie_Stock.exe
+D:\C_Sharp Doc\M1ActualQns\Movie_Stock\bin\Debug\net10.0\Movie_Stock.deps.json
+D:\C_Sharp Doc\M1ActualQns\Movie_Stock\bin\Debug\net10.0\Movie_Stock.runtimeconfig.json
+D:\C_Sharp Doc\M1ActualQns\Movie_Stock\bin\Debug\net10.0\Movie_Stock.dll
+D:\C_Sharp Doc\M1ActualQns\Movie_Stock\bin\Debug\net10.0\Movie_Stock.pdb
+D:\C_Sharp Doc\M1ActualQns\Movie_Stock\obj\Debug\net10.0\Movie_Stock.dll
+D:\C_Sharp Doc\M1ActualQns\Movie_Stock\obj\Debug\net10.0\refint\Movie_Stock.dll
+D:\C_Sharp Doc\M1ActualQns\Movie_Stock\obj\Debug\net10.0\Movie_Stock.pdb
+D:\C_Sharp Doc\M1ActualQns\Movie_Stock\obj\Debug\net10.0\Movie_Stock.genruntimeconfig.cache
+D:\C_Sharp Doc\M1ActualQns\Movie_Stock\obj\Debug\net10.0\ref\Movie_Stock.dll
