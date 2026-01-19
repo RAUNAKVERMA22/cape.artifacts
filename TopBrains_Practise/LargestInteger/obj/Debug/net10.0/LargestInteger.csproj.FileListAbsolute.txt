@@ -1,0 +1,15 @@
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\bin\Debug\net10.0\LargestInteger.exe
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\bin\Debug\net10.0\LargestInteger.deps.json
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\bin\Debug\net10.0\LargestInteger.runtimeconfig.json
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\bin\Debug\net10.0\LargestInteger.dll
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\bin\Debug\net10.0\LargestInteger.pdb
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\obj\Debug\net10.0\LargestInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\obj\Debug\net10.0\LargestInteger.AssemblyInfoInputs.cache
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\obj\Debug\net10.0\LargestInteger.AssemblyInfo.cs
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\obj\Debug\net10.0\LargestInteger.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\obj\Debug\net10.0\LargestInteger.sourcelink.json
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\obj\Debug\net10.0\LargestInteger.dll
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\obj\Debug\net10.0\refint\LargestInteger.dll
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\obj\Debug\net10.0\LargestInteger.pdb
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\obj\Debug\net10.0\LargestInteger.genruntimeconfig.cache
+D:\Cg_LPU\TopBrains_Practise\LargestInteger\obj\Debug\net10.0\ref\LargestInteger.dll
