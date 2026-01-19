@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Mahirl_Alphabets_Vowels/1.0.0": {
+        "runtime": {
+          "Mahirl_Alphabets_Vowels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mahirl_Alphabets_Vowels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

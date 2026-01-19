@@ -1,0 +1,15 @@
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\bin\Debug\net10.0\Mahirl_Alphabets_Vowels.exe
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\bin\Debug\net10.0\Mahirl_Alphabets_Vowels.deps.json
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\bin\Debug\net10.0\Mahirl_Alphabets_Vowels.runtimeconfig.json
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\bin\Debug\net10.0\Mahirl_Alphabets_Vowels.dll
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\bin\Debug\net10.0\Mahirl_Alphabets_Vowels.pdb
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Mahirl_Alphabets_Vowels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Mahirl_Alphabets_Vowels.AssemblyInfoInputs.cache
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Mahirl_Alphabets_Vowels.AssemblyInfo.cs
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Mahirl_Alphabets_Vowels.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Mahirl_Alphabets_Vowels.sourcelink.json
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Mahirl_Alphabets_Vowels.dll
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\obj\Debug\net10.0\refint\Mahirl_Alphabets_Vowels.dll
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Mahirl_Alphabets_Vowels.pdb
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Mahirl_Alphabets_Vowels.genruntimeconfig.cache
+D:\Cg_LPU\TopBrains_Practise\Mahirl_Alphabets_Vowels\obj\Debug\net10.0\ref\Mahirl_Alphabets_Vowels.dll
