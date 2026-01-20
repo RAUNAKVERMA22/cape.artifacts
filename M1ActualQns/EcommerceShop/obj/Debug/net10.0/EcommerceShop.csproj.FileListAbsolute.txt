@@ -1,0 +1,15 @@
+D:\Cg_LPU\M1ActualQns\EcommerceShop\obj\Debug\net10.0\EcommerceShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\M1ActualQns\EcommerceShop\obj\Debug\net10.0\EcommerceShop.AssemblyInfoInputs.cache
+D:\Cg_LPU\M1ActualQns\EcommerceShop\obj\Debug\net10.0\EcommerceShop.AssemblyInfo.cs
+D:\Cg_LPU\M1ActualQns\EcommerceShop\obj\Debug\net10.0\EcommerceShop.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\M1ActualQns\EcommerceShop\obj\Debug\net10.0\EcommerceShop.sourcelink.json
+D:\Cg_LPU\M1ActualQns\EcommerceShop\bin\Debug\net10.0\EcommerceShop.exe
+D:\Cg_LPU\M1ActualQns\EcommerceShop\bin\Debug\net10.0\EcommerceShop.deps.json
+D:\Cg_LPU\M1ActualQns\EcommerceShop\bin\Debug\net10.0\EcommerceShop.runtimeconfig.json
+D:\Cg_LPU\M1ActualQns\EcommerceShop\bin\Debug\net10.0\EcommerceShop.dll
+D:\Cg_LPU\M1ActualQns\EcommerceShop\bin\Debug\net10.0\EcommerceShop.pdb
+D:\Cg_LPU\M1ActualQns\EcommerceShop\obj\Debug\net10.0\EcommerceShop.dll
+D:\Cg_LPU\M1ActualQns\EcommerceShop\obj\Debug\net10.0\refint\EcommerceShop.dll
+D:\Cg_LPU\M1ActualQns\EcommerceShop\obj\Debug\net10.0\EcommerceShop.pdb
+D:\Cg_LPU\M1ActualQns\EcommerceShop\obj\Debug\net10.0\EcommerceShop.genruntimeconfig.cache
+D:\Cg_LPU\M1ActualQns\EcommerceShop\obj\Debug\net10.0\ref\EcommerceShop.dll
