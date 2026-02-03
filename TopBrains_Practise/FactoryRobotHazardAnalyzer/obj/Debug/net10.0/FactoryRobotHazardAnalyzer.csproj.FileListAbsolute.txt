@@ -1,0 +1,15 @@
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.AssemblyInfoInputs.cache
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.AssemblyInfo.cs
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.sourcelink.json
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.exe
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.deps.json
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.runtimeconfig.json
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.dll
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.pdb
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.dll
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\refint\FactoryRobotHazardAnalyzer.dll
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.pdb
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.genruntimeconfig.cache
+D:\Cg_LPU\TopBrains_Practise\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\ref\FactoryRobotHazardAnalyzer.dll
