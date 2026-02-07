@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <!-- Exclude advanced files kept in the folder for reference; keep build minimal -->
+  <ItemGroup>
+    <Compile Remove="Coupon.cs" />
+    <Compile Remove="Exceptions.cs" />
+    <Compile Remove="InvoiceGenerator.cs" />
+    <Compile Remove="Payment.cs" />
+    <Compile Remove="Services\**\*.cs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.exe
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.deps.json
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.runtimeconfig.json
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.dll
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.pdb
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.AssemblyInfoInputs.cache
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.AssemblyInfo.cs
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.sourcelink.json
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.dll
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\obj\Debug\net10.0\refint\MiniOrderSystem.dll
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.pdb
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.genruntimeconfig.cache
+D:\Cg_LPU\Assesment_07-02-2026\MiniOrderSystem\obj\Debug\net10.0\ref\MiniOrderSystem.dll

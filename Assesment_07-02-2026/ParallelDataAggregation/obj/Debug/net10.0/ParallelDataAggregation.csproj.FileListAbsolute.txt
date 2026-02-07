@@ -1,0 +1,15 @@
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\bin\Debug\net10.0\ParallelDataAggregation.exe
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\bin\Debug\net10.0\ParallelDataAggregation.deps.json
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\bin\Debug\net10.0\ParallelDataAggregation.runtimeconfig.json
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\bin\Debug\net10.0\ParallelDataAggregation.dll
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\bin\Debug\net10.0\ParallelDataAggregation.pdb
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\obj\Debug\net10.0\ParallelDataAggregation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\obj\Debug\net10.0\ParallelDataAggregation.AssemblyInfoInputs.cache
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\obj\Debug\net10.0\ParallelDataAggregation.AssemblyInfo.cs
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\obj\Debug\net10.0\ParallelDataAggregation.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\obj\Debug\net10.0\ParallelDataAggregation.sourcelink.json
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\obj\Debug\net10.0\ParallelDataAggregation.dll
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\obj\Debug\net10.0\refint\ParallelDataAggregation.dll
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\obj\Debug\net10.0\ParallelDataAggregation.pdb
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\obj\Debug\net10.0\ParallelDataAggregation.genruntimeconfig.cache
+D:\Cg_LPU\Assesment_07-02-2026\ParallelDataAggregation\obj\Debug\net10.0\ref\ParallelDataAggregation.dll
