@@ -1,0 +1,15 @@
+D:\Cg_LPU\StringPractise\bin\Debug\net10.0\StringPractise.exe
+D:\Cg_LPU\StringPractise\bin\Debug\net10.0\StringPractise.deps.json
+D:\Cg_LPU\StringPractise\bin\Debug\net10.0\StringPractise.runtimeconfig.json
+D:\Cg_LPU\StringPractise\bin\Debug\net10.0\StringPractise.dll
+D:\Cg_LPU\StringPractise\bin\Debug\net10.0\StringPractise.pdb
+D:\Cg_LPU\StringPractise\obj\Debug\net10.0\StringPractise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\StringPractise\obj\Debug\net10.0\StringPractise.AssemblyInfoInputs.cache
+D:\Cg_LPU\StringPractise\obj\Debug\net10.0\StringPractise.AssemblyInfo.cs
+D:\Cg_LPU\StringPractise\obj\Debug\net10.0\StringPractise.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\StringPractise\obj\Debug\net10.0\StringPractise.sourcelink.json
+D:\Cg_LPU\StringPractise\obj\Debug\net10.0\StringPractise.dll
+D:\Cg_LPU\StringPractise\obj\Debug\net10.0\refint\StringPractise.dll
+D:\Cg_LPU\StringPractise\obj\Debug\net10.0\StringPractise.pdb
+D:\Cg_LPU\StringPractise\obj\Debug\net10.0\StringPractise.genruntimeconfig.cache
+D:\Cg_LPU\StringPractise\obj\Debug\net10.0\ref\StringPractise.dll
