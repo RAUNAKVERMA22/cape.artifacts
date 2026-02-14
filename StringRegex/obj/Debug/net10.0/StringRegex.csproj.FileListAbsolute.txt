@@ -1,0 +1,15 @@
+D:\Cg_LPU\stringRegex\bin\Debug\net10.0\StringRegex.exe
+D:\Cg_LPU\stringRegex\bin\Debug\net10.0\StringRegex.deps.json
+D:\Cg_LPU\stringRegex\bin\Debug\net10.0\StringRegex.runtimeconfig.json
+D:\Cg_LPU\stringRegex\bin\Debug\net10.0\StringRegex.dll
+D:\Cg_LPU\stringRegex\bin\Debug\net10.0\StringRegex.pdb
+D:\Cg_LPU\stringRegex\obj\Debug\net10.0\StringRegex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cg_LPU\stringRegex\obj\Debug\net10.0\StringRegex.AssemblyInfoInputs.cache
+D:\Cg_LPU\stringRegex\obj\Debug\net10.0\StringRegex.AssemblyInfo.cs
+D:\Cg_LPU\stringRegex\obj\Debug\net10.0\StringRegex.csproj.CoreCompileInputs.cache
+D:\Cg_LPU\stringRegex\obj\Debug\net10.0\StringRegex.sourcelink.json
+D:\Cg_LPU\stringRegex\obj\Debug\net10.0\StringRegex.dll
+D:\Cg_LPU\stringRegex\obj\Debug\net10.0\refint\StringRegex.dll
+D:\Cg_LPU\stringRegex\obj\Debug\net10.0\StringRegex.pdb
+D:\Cg_LPU\stringRegex\obj\Debug\net10.0\StringRegex.genruntimeconfig.cache
+D:\Cg_LPU\stringRegex\obj\Debug\net10.0\ref\StringRegex.dll
